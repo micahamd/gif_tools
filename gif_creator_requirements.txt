@@ -1,0 +1,5 @@
+# GIF Tools Requirements
+
+# Install these packages to run gif_looper.py and gif_creator.py
+Pillow>=9.0.0
+moviepy>=2.0.0
